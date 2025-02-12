@@ -1,4 +1,4 @@
-# strings is a datatype that stores a sequence of characters
+# strings is a datatype that stores a sequence of characters (strings are immutable)
 str1="hello"
 str2='hello'
 str3='''hllo
